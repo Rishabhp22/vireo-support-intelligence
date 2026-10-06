@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+.vireo-venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Temporary Testing Folders
+.pytest_cache/
+work/
+work/*
+
+# VS Code / IDE settings (optional)
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
