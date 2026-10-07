@@ -95,7 +95,8 @@ Ask natural language questions with dynamic headcount and team extraction:
 * Decision guardrails preventing premature hiring commitments.
 
 ### 4. 📄 Executive Memo to Priya Raman
-* Ready-to-read 1-page non-technical executive memo detailing the 3-point action plan.
+* Ready-to-read 1-page non-technical executive memo detailing the 3-point action plan (available in the UI Tab 4 and as a standalone document at [MEMO.md](MEMO.md)).
+
 
 ---
 
